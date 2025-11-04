@@ -75,7 +75,7 @@ const Hero = () => {
             <a href="#projects" className="btn-secondary">
               View Projects
             </a>
-            <a href="/resume.pdf" className="btn-secondary flex items-center gap-2 justify-center">
+            <a href="/Pratima_Prit.pdf" className="btn-secondary flex items-center gap-2 justify-center" target="_blank" rel="noopener noreferrer">
               <FaDownload /> Resume
             </a>
           </motion.div>
